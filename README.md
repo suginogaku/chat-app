@@ -1,27 +1,15 @@
-# README
+# アプリケーションの概要
+slackのクローンアプリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 環境
+* [Web URL](https://chat-app20201.herokuapp.com/)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* フレームワーク
+  <br>
+  Ruby on Rails
+* データベース
+  <br>
+  mySQL
 
 # テーブル設計
 
